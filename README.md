@@ -1,6 +1,6 @@
 # React - Redux - Zustand
 
-### Skills importantes no projeto:
+### Important Skills:
 <ul>
   <li>Zustand</li>
   <li>TanStack Query</li>
